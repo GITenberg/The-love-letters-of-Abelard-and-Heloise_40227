@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '38039'
     url: http://www.gutenberg.org/2009/agents/38039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40227#The-love-letters-of-Abelard-and-Heloise
 gutenberg_issued: '2012-07-14'
 gutenberg_type: Text
 identifiers:
