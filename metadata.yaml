@@ -1,0 +1,50 @@
+_repo: The-love-letters-of-Abelard-and-Heloise_40227
+_version: 0.1.0
+contributor:
+  other_contributor:
+    agent_name: Seymour, Ralph Fletcher
+    birthdate: 1876
+    deathdate: 1966
+    gutenberg_agent_id: '43914'
+    url: http://www.gutenberg.org/2009/agents/43914
+covers:
+- cover_type: archival
+  image_path: 40227-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Abelard, Peter
+    aliases:
+    - Abaelardus, Petrus
+    - Abeilard, Pierre
+    - Abélard, Pierre
+    birthdate: 1079
+    deathdate: 1142
+    gutenberg_agent_id: '5441'
+    url: http://www.gutenberg.org/2009/agents/5441
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Abelard
+  - agent_name: Héloïse
+    aliases:
+    - Heloise
+    - Eloisa
+    - Heloísa
+    deathdate: 1163
+    gutenberg_agent_id: '38039'
+    url: http://www.gutenberg.org/2009/agents/38039
+description: ''
+gutenberg_issued: '2012-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Héloïse, approximately 1095-1163 or 1164 -- Correspondence'
+- !lcsh 'Abelard, Peter, 1079-1142 -- Correspondence'
+- !lcsh 'Theologians -- France -- Correspondence'
+- !lcsh 'Love-letters'
+- !lcsh 'Abbesses, Christian -- France -- Correspondence'
+- !lcc 'PA'
+title: The love letters of Abelard and Heloise
+url: http://www.gutenberg.org/ebooks/40227
